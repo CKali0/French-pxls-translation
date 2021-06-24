@@ -51,7 +51,7 @@ msgstr ""
 
 #: resources/public/pebble_templates/index.html:101:30
 msgid "Pixels"
-msgstr ""
+msgstr "Pixels"
 
 #: resources/public/pebble_templates/index.html:112:54
 msgid "Undo"
@@ -63,25 +63,25 @@ msgstr ""
 
 #: resources/public/pebble_templates/index.html:124:28
 msgid "Loading..."
-msgstr ""
+msgstr "Chargement..."
 
 #: resources/public/pebble_templates/index.html:132:14
 #: resources/public/pebble_templates/index.html:142:67
 msgid "Sign up"
-msgstr ""
+msgstr "S'inscrire"
 
 #: resources/public/pebble_templates/index.html:133:14
 msgid "Pick a username"
-msgstr ""
+msgstr "Choisis ton pseudo"
 
 #: resources/public/pebble_templates/index.html:136:43
 msgid "Username:"
-msgstr ""
+msgstr "Pseudo"
 
 #: resources/public/pebble_templates/index.html:154:65
 #: resources/public/pebble_templates/profile.html:56:96
 msgid "Info"
-msgstr ""
+msgstr "Info"
 
 #: resources/public/pebble_templates/index.html:168:66
 #: resources/public/pebble_templates/index.html:206:66
@@ -92,16 +92,16 @@ msgstr ""
 
 #: resources/public/pebble_templates/index.html:170:61
 msgid "Chat"
-msgstr ""
+msgstr "Chat"
 
 #: resources/public/pebble_templates/index.html:172:45
 msgid "Pings"
-msgstr ""
+msgstr "Mentions"
 
 #: resources/public/pebble_templates/index.html:173:45
 #: resources/public/pebble_templates/index.html:209:58
 msgid "Settings"
-msgstr ""
+msgstr "Paramètres"
 
 #: resources/public/pebble_templates/index.html:186:30
 msgid "Jump To Bottom"
@@ -110,11 +110,11 @@ msgstr ""
 #. Open emoji picker
 #: resources/public/pebble_templates/index.html:194:49
 msgid "Emoji"
-msgstr ""
+msgstr "Emoji"
 
 #: resources/public/pebble_templates/index.html:214:73
 msgid "Search"
-msgstr ""
+msgstr "Recherche"
 
 #: resources/public/pebble_templates/index.html:215:56
 msgid "keybinds;keys;keyboard;hotkeys"
@@ -122,17 +122,17 @@ msgstr ""
 
 #: resources/public/pebble_templates/index.html:217:24
 msgid "Keybinds"
-msgstr ""
+msgstr "Contrôles"
 
 #: resources/public/pebble_templates/index.html:220:44
 msgid "general"
-msgstr ""
+msgstr "général"
 
 #. General settings
 #: resources/public/pebble_templates/index.html:222:28
 #: resources/public/pebble_templates/index.html:620:28
 msgid "General"
-msgstr ""
+msgstr "Général"
 
 #: resources/public/pebble_templates/index.html:223:42
 msgid "move;moving;panning;drag"
@@ -649,11 +649,11 @@ msgstr ""
 
 #: resources/public/pebble_templates/index.html:488:28
 msgid "Grid"
-msgstr ""
+msgstr "Grille"
 
 #: resources/public/pebble_templates/index.html:492:57
 msgid "Turn on grid"
-msgstr ""
+msgstr "Activer la grille"
 
 #: resources/public/pebble_templates/index.html:494:67
 msgid "(toggle with <kbd>G</kbd>)"
@@ -665,7 +665,7 @@ msgstr ""
 
 #: resources/public/pebble_templates/index.html:501:24
 msgid "Control Settings"
-msgstr ""
+msgstr "Paramètres des Contrôles"
 
 #: resources/public/pebble_templates/index.html:504:44
 msgid "zooming;scrolling;scale;scaling"
@@ -673,7 +673,7 @@ msgstr ""
 
 #: resources/public/pebble_templates/index.html:505:28
 msgid "Zooming"
-msgstr ""
+msgstr "Zoomer"
 
 #: resources/public/pebble_templates/index.html:506:44
 msgid "scrolling sensitivity;zooming sensitivity;mousewheel sensitivity"
@@ -681,7 +681,7 @@ msgstr ""
 
 #: resources/public/pebble_templates/index.html:508:57
 msgid "Zoom sensitivity:"
-msgstr ""
+msgstr "Sensibilité du zoom:"
 
 #: resources/public/pebble_templates/index.html:512:44
 msgid "zooming limit;scrolling limit;mousewheel;zooming maximum"
@@ -689,7 +689,7 @@ msgstr ""
 
 #: resources/public/pebble_templates/index.html:515:57
 msgid "Limit zoom to 50x"
-msgstr ""
+msgstr "Limiter le zoom à 50x"
 
 #: resources/public/pebble_templates/index.html:518:44
 msgid "rounding;zooming;scrolling;mousewheel;integer;decimal"
@@ -789,11 +789,11 @@ msgstr ""
 
 #: resources/public/pebble_templates/index.html:589:57
 msgid "Horizontal position:"
-msgstr ""
+msgstr "Position horizontale:"
 
 #: resources/public/pebble_templates/index.html:593:57
 msgid "Vertical position:"
-msgstr ""
+msgstr "Position verticale:"
 
 #: resources/public/pebble_templates/index.html:597:44
 msgid "template transparency;template opacity;oo="
@@ -801,7 +801,7 @@ msgstr ""
 
 #: resources/public/pebble_templates/index.html:599:57
 msgid "Opacity:"
-msgstr ""
+msgstr "Opacité"
 
 #: resources/public/pebble_templates/index.html:604:44
 msgid "template width;tw="
@@ -809,12 +809,12 @@ msgstr ""
 
 #: resources/public/pebble_templates/index.html:606:57
 msgid "Width:"
-msgstr ""
+msgstr "Largeur"
 
 #: resources/public/pebble_templates/index.html:609:82
 #: resources/public/pebble_templates/index.html:644:79
 msgid "Reset"
-msgstr ""
+msgstr "Réinitialiser"
 
 #: resources/public/pebble_templates/index.html:614:36
 msgid "sound;notification;alert;notify;ping"
@@ -822,7 +822,7 @@ msgstr ""
 
 #: resources/public/pebble_templates/index.html:616:24
 msgid "Sound and Notification Settings"
-msgstr ""
+msgstr "Paramètres des Notifications/Sons"
 
 #: resources/public/pebble_templates/index.html:621:44
 msgid "audio;mute;noise;volume"
@@ -830,7 +830,7 @@ msgstr ""
 
 #: resources/public/pebble_templates/index.html:624:57
 msgid "Enable sound"
-msgstr ""
+msgstr "Activer le son"
 
 #: resources/public/pebble_templates/index.html:627:44
 msgid "notifs;notify;pixel notification"
@@ -838,7 +838,7 @@ msgstr ""
 
 #: resources/public/pebble_templates/index.html:630:57
 msgid "Enable pixel available notification"
-msgstr ""
+msgstr "Activer les notification quand un pixel et prêt a être placé"
 
 #: resources/public/pebble_templates/index.html:634:44
 msgid "notification;pixel ready;alert"
@@ -858,11 +858,11 @@ msgstr ""
 
 #: resources/public/pebble_templates/index.html:642:85
 msgid "Update"
-msgstr ""
+msgstr "Mettre à jour"
 
 #: resources/public/pebble_templates/index.html:643:83
 msgid "Test"
-msgstr ""
+msgstr "Tester"
 
 #: resources/public/pebble_templates/index.html:647:44
 msgid "sound level;audio level;mute audio;mute sound"
@@ -870,7 +870,7 @@ msgstr ""
 
 #: resources/public/pebble_templates/index.html:649:57
 msgid "Volume:"
-msgstr ""
+msgstr "Volume"
 
 #: resources/public/pebble_templates/index.html:654:44
 msgid "alert forewarning;alert delay; notification delay; notification forewarning"
@@ -878,7 +878,7 @@ msgstr ""
 
 #: resources/public/pebble_templates/index.html:656:57
 msgid "Delay (seconds):"
-msgstr ""
+msgstr "Délai (secondes):"
 
 #: resources/public/pebble_templates/index.html:661:44
 msgid "chat mentions;chat pings;chat sound"
@@ -910,7 +910,7 @@ msgstr ""
 
 #: resources/public/pebble_templates/index.html:675:59
 msgid "Always"
-msgstr ""
+msgstr "Toujours"
 
 #: resources/public/pebble_templates/index.html:679:44
 msgid "mention sound volume"
@@ -922,84 +922,84 @@ msgstr ""
 
 #: resources/public/pebble_templates/index.html:689:36
 msgid "personal account"
-msgstr ""
+msgstr "compte personnel"
 
 #: resources/public/pebble_templates/index.html:691:24
 msgid "Account Settings"
-msgstr ""
+msgstr "Paramètres du Compte"
 
 #: resources/public/pebble_templates/index.html:697:57
 msgid "Public Discord name:"
-msgstr ""
+msgstr "Nom Public Discord"
 
 #: resources/public/pebble_templates/index.html:701:83
 msgid "Set"
-msgstr ""
+msgstr "Définir"
 
 #: resources/public/pebble_templates/index.html:702:86
 msgid "Remove"
-msgstr ""
+msgstr "Retirer"
 
 #. FAQ panel
 #: resources/public/pebble_templates/index.html:715:65
 msgid "Help"
-msgstr ""
+msgstr "Aide"
 
 #: resources/public/pebble_templates/index.html:728:54
 msgid "Notifications"
-msgstr ""
+msgstr "Notifications"
 
 #: resources/public/pebble_templates/faq.html:3:16
 msgid "FAQ"
-msgstr ""
+msgstr "FAQ"
 
 #: resources/public/pebble_templates/faq.html:7:20
 msgid "Why is the cooldown as long as it is?"
-msgstr ""
+msgstr "Pourquoi est-ce que le temps à attendre entre chaque pixel est aussi long?"
 
 #: resources/public/pebble_templates/faq.html:8:20
 msgid "The time it takes to get a pixel is dynamic, and changes based on how many people are online. The cooldown time is longer when more users are online."
-msgstr ""
+msgstr "Le temps que ça prend pour charger un pixel change en fonction du nombre de personnes en ligne. Ce temps sera plus long si plus de monde est en ligne."
 
 #: resources/public/pebble_templates/faq.html:9:20
 msgid "Why does it say 0/6 pixels?"
-msgstr ""
+msgstr "Pourquoi est-ce que ça dit que j'ai 0/6 pixels?"
 
 #: resources/public/pebble_templates/faq.html:10:20
 msgid "This means that you are waiting for your next pixel. When you place a pixel, there is a cooldown for when you can place the next one. Over time, you can gain up to 6 \"stacked\" pixels to place at once."
-msgstr ""
+msgstr "Ça veut dire que tu est en train d'attendre que ton prochain pixel soit prêt. Quand tu place un pixel, il y a un certain temps avant que tu puisse en placer un autre. Après un certain temps, tu peux obtenir jusqu'à 6 pixels \"stackés\""
 
 #: resources/public/pebble_templates/faq.html:11:20
 msgid "Why does it take so long to \"stack\" pixels?"
-msgstr ""
+msgstr "Pourquoi est-ce que ça prend autant de temps pour \"stacker\" des pixels?"
 
 #: resources/public/pebble_templates/faq.html:12:20
 msgid "This is by design. It is better to place a pixel as soon as you get one. Pixel \"stacking\" is meant to give you a bump if you go AFK for a bit. It takes around 40 minutes to get a full 6/6 pixels, but it only takes around 3 minutes to place 6 pixels if you place them as soon as possible."
-msgstr ""
+msgstr "Simple design. C'est mieux de placer un pixel dès que tu en as l'opportunité. Le \"stacking\"est fait pour te donner un coup de pouce pour les moments où tu est AFK. Ça peut prendre jusqu'à 40 minutes pour obtenir 6/6 pixels, mais ça prend jusqu'à 3 minutes d'en placer 6 si tu les places dès que possible."
 
 #: resources/public/pebble_templates/faq.html:13:20
 msgid "How do I appeal a ban?"
-msgstr ""
+msgstr "Comment puis-je révoquer un bannissement?"
 
 #: resources/public/pebble_templates/faq.html:14:20
 msgid "Contact us on <a href=\"https://pxls.space/discord\" target=\"_blank\">Discord</a> or send an appeal to our <a href=\"https://pxls.space/appeal\" target=\"_blank\">Google form</a> after reading the rules in the site's info panel."
-msgstr ""
+msgstr "Contactez nous à <a href=\"https://pxls.space/discord\" target=\"_blank\">Discord</a> ou envoie une révocation à notre <a href=\"https://pxls.space/appeal\" target=\"_blank\">Google form</a> après avoir lu les règles dans le panel des infos du site."
 
 #: resources/public/pebble_templates/faq.html:15:20
 msgid "How do I make a template?"
-msgstr ""
+msgstr "Comment créer un modèle?"
 
 #: resources/public/pebble_templates/faq.html:16:20
 msgid "A template is an image link that is posted in the template textbox in the settings panel so you can place over it on the canvas. You may use a regular image link to your pixel art, but many people use the 3rd party tool <a href=\"https://pxlsfiddle.com\" target=\"_blank\">PxlsFiddle</a> to turn pixel art into a fancier link. If you need to make pixel art yourself, you can use <a href=\"https://www.piskelapp.com/p/create\" target=\"_blank\">Piskel</a> to create art to put into PxlsFiddle."
-msgstr ""
+msgstr "Un modèle est un lien d'image qui est posté dans la boite de texte des modèles dans les paramètres afin de pouvoir le placer sur le canvas. Tu peux utiliser un lien d'image normal pour ton pixel art, mais beaucoup de gens utilisent l'outil <a href=\"https://pxlsfiddle.com\" target=\"_blank\">PxlsFiddle</a> pour transformer ton pixel art en un lien plus simple. Si tu as besoin de faire un pixel art toi même, tu peux utliser <a href=\"https://www.piskelapp.com/p/create\" target=\"_blank\">Piskel</a> pour créer un modèle et le mettre ensuite dans PxlsFiddle."
 
 #: resources/public/pebble_templates/faq.html:17:20
 msgid "How do I move a template?"
-msgstr ""
+msgstr "Comment est-ce que je déplace mon modèle?"
 
 #: resources/public/pebble_templates/faq.html:18:20
 msgid "Hold <kbd>CTRL</kbd> (or <kbd>OPTION</kbd> on macOS) and click and drag to move it around. On mobile, you can tap and hold where you want to move the template and click \"Move Template Here\" in the pop-up."
-msgstr ""
+msgstr "Maintiens <kbd>CTRL</kbd> (ou <kbd>OPTION</kbd> sur macOS) et déplace le en laissant appuyer le clique gauche. Sur téléphone, tu peux taper et laisser appuyer ou tu veux déplacer ton modèle et cliquer \"Déplacer le modèle ici\" dans le pop-up"
 
 #: resources/public/pebble_templates/faq.html:19:20
 msgid "Does the canvas reset? When?"
