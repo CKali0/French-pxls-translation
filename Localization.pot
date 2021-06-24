@@ -43,7 +43,7 @@ msgstr ""
 #. All time pixel count
 #: resources/public/pebble_templates/index.html:88:38
 msgid "All Time:"
-msgstr ""
+msgstr "Pixels totaux"
 
 #: resources/public/pebble_templates/index.html:93:48
 msgid "Loading online user count&hellip;"
@@ -55,7 +55,7 @@ msgstr ""
 
 #: resources/public/pebble_templates/index.html:112:54
 msgid "Undo"
-msgstr ""
+msgstr "Annuler"
 
 #: resources/public/pebble_templates/index.html:114:20
 msgid "You are not signed in.&nbsp;<a href=\"#\">Sign in with...</a>"
@@ -63,7 +63,7 @@ msgstr ""
 
 #: resources/public/pebble_templates/index.html:124:28
 msgid "Loading..."
-msgstr ""
+msgstr "Chargement..."
 
 #: resources/public/pebble_templates/index.html:132:14
 #: resources/public/pebble_templates/index.html:142:67
@@ -76,7 +76,7 @@ msgstr ""
 
 #: resources/public/pebble_templates/index.html:136:43
 msgid "Username:"
-msgstr ""
+msgstr "Pseudo"
 
 #: resources/public/pebble_templates/index.html:154:65
 #: resources/public/pebble_templates/profile.html:56:96
@@ -96,7 +96,7 @@ msgstr ""
 
 #: resources/public/pebble_templates/index.html:172:45
 msgid "Pings"
-msgstr ""
+msgstr "Mentions"
 
 #: resources/public/pebble_templates/index.html:173:45
 #: resources/public/pebble_templates/index.html:209:58
@@ -110,11 +110,11 @@ msgstr ""
 #. Open emoji picker
 #: resources/public/pebble_templates/index.html:194:49
 msgid "Emoji"
-msgstr ""
+msgstr "Emoji"
 
 #: resources/public/pebble_templates/index.html:214:73
 msgid "Search"
-msgstr ""
+msgstr "Rechercher"
 
 #: resources/public/pebble_templates/index.html:215:56
 msgid "keybinds;keys;keyboard;hotkeys"
@@ -122,17 +122,17 @@ msgstr ""
 
 #: resources/public/pebble_templates/index.html:217:24
 msgid "Keybinds"
-msgstr ""
+msgstr "Contrôles"
 
 #: resources/public/pebble_templates/index.html:220:44
 msgid "general"
-msgstr ""
+msgstr "général"
 
 #. General settings
 #: resources/public/pebble_templates/index.html:222:28
 #: resources/public/pebble_templates/index.html:620:28
 msgid "General"
-msgstr ""
+msgstr "Général"
 
 #: resources/public/pebble_templates/index.html:223:42
 msgid "move;moving;panning;drag"
@@ -293,7 +293,7 @@ msgstr ""
 #: resources/public/pebble_templates/index.html:245:42
 #: resources/public/pebble_templates/index.html:246:42
 msgid "transparency"
-msgstr ""
+msgstr "transparence"
 
 #: resources/public/pebble_templates/index.html:245:90
 msgid "<kbd>Page Up</kbd> to increase opacity"
@@ -321,7 +321,7 @@ msgstr ""
 
 #: resources/public/pebble_templates/index.html:258:24
 msgid "UI Settings"
-msgstr ""
+msgstr "Paramètres d'interface"
 
 #: resources/public/pebble_templates/index.html:262:44
 msgid "themes;look;stylesheets;visuals"
@@ -433,19 +433,19 @@ msgstr ""
 
 #: resources/public/pebble_templates/index.html:341:61
 msgid "Top left"
-msgstr ""
+msgstr "En haut à gauche"
 
 #: resources/public/pebble_templates/index.html:342:62
 msgid "Top right"
-msgstr ""
+msgstr "En haut à droite"
 
 #: resources/public/pebble_templates/index.html:343:73
 msgid "Bottom left"
-msgstr ""
+msgstr "En bas à gauche"
 
 #: resources/public/pebble_templates/index.html:344:65
 msgid "Bottom right"
-msgstr ""
+msgstr "En bas à droite"
 
 #: resources/public/pebble_templates/index.html:348:44
 msgid "broken;offset workaround"
@@ -461,7 +461,7 @@ msgstr ""
 
 #: resources/public/pebble_templates/index.html:359:24
 msgid "Chat Settings"
-msgstr ""
+msgstr "Paramètres du chat"
 
 #: resources/public/pebble_templates/index.html:362:44
 msgid "username;color;colour"
@@ -469,7 +469,7 @@ msgstr ""
 
 #: resources/public/pebble_templates/index.html:365:57
 msgid "Username Color:"
-msgstr ""
+msgstr "Couleur du Pseudo:"
 
 #: resources/public/pebble_templates/index.html:371:44
 msgid "chat message;chat ui"
@@ -477,7 +477,7 @@ msgstr ""
 
 #: resources/public/pebble_templates/index.html:372:28
 msgid "Interface"
-msgstr ""
+msgstr "Interface"
 
 #: resources/public/pebble_templates/index.html:373:44
 msgid "chat size;chat font"
@@ -485,7 +485,7 @@ msgstr ""
 
 #: resources/public/pebble_templates/index.html:375:57
 msgid "Font Size:"
-msgstr ""
+msgstr "Taille de la police:"
 
 #: resources/public/pebble_templates/index.html:379:44
 msgid "time;timestamps"
@@ -525,7 +525,7 @@ msgstr ""
 
 #: resources/public/pebble_templates/index.html:406:57
 msgid "Enable horizontal chat"
-msgstr ""
+msgstr "Activer le chat horizontal"
 
 #: resources/public/pebble_templates/index.html:409:44
 msgid "banner;animation"
