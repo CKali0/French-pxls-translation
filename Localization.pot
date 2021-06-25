@@ -8,28 +8,28 @@ msgstr ""
 #. Site description
 #: resources/public/pebble_templates/index.html:8:42
 msgid "Place pixels with people to create art"
-msgstr ""
+msgstr "Place des pixels avec d'autres pour créer des œuvres d'art"
 
 #: resources/public/pebble_templates/index.html:56:27
 msgid "Lost connection to server, reconnecting..."
-msgstr ""
+msgstr "Connexion au serveur perdue, reconnexion en cours..."
 
 #: resources/public/pebble_templates/index.html:71:76
 msgid "Loading Heatmap (press <kbd>H</kbd> to cancel)"
-msgstr ""
+msgstr "Chargement de la carte d'activité (appuie sur <kbd>H</kbd> pour annuler)"
 
 #: resources/public/pebble_templates/index.html:72:78
 msgid "Loading Virginmap (press <kbd>X</kbd> to cancel)"
-msgstr ""
+msgstr "Chargement de la virginmap (appuie sur <kbd>X</kbd> pour annuler)"
 
 #: resources/public/pebble_templates/index.html:80:67
 msgid "Logout"
-msgstr ""
+msgstr "Déconnexion"
 
 #. Canvas pixel count
 #: resources/public/pebble_templates/index.html:86:38
 msgid "Canvas:"
-msgstr ""
+msgstr "Canvas :"
 
 #. Canvas pixel count
 #. All time pixel count
@@ -38,16 +38,16 @@ msgstr ""
 #: resources/public/pebble_templates/index.html:100:51
 #: resources/public/pebble_templates/index.html:126:123
 msgid "N/A"
-msgstr ""
+msgstr "N/A"
 
 #. All time pixel count
 #: resources/public/pebble_templates/index.html:88:38
 msgid "All Time:"
-msgstr ""
+msgstr "Total :"
 
 #: resources/public/pebble_templates/index.html:93:48
 msgid "Loading online user count&hellip;"
-msgstr ""
+msgstr "Chargement du nombre d'utilisateurs en ligne&hellip;"
 
 #: resources/public/pebble_templates/index.html:101:30
 msgid "Pixels"
@@ -59,7 +59,7 @@ msgstr "Annuler"
 
 #: resources/public/pebble_templates/index.html:114:20
 msgid "You are not signed in.&nbsp;<a href=\"#\">Sign in with...</a>"
-msgstr ""
+msgstr "Tu n'es pas identifié.&nbsp;<a href=\"#\">S'identifier avec...</a>"
 
 #: resources/public/pebble_templates/index.html:124:28
 msgid "Loading..."
@@ -136,35 +136,35 @@ msgstr "Général"
 
 #: resources/public/pebble_templates/index.html:223:42
 msgid "move;moving;panning;drag"
-msgstr ""
+msgstr "bouger;déplacement"
 
 #: resources/public/pebble_templates/index.html:223:102
 msgid "Mouse/arrows/wasd to pan"
-msgstr ""
+msgstr "Souris/flèches/wasd pour déplacer le canvas"
 
 #: resources/public/pebble_templates/index.html:224:42
 msgid "mousewheel;zooming"
-msgstr ""
+msgstr "roulette;molette;zoom"
 
 #: resources/public/pebble_templates/index.html:224:96
 msgid "Scroll/pinch to zoom"
-msgstr ""
+msgstr "Scroll/pincer pour zoomer"
 
 #: resources/public/pebble_templates/index.html:225:42
 msgid "scroll;zooming"
-msgstr ""
+msgstr "scroll;zoom"
 
 #: resources/public/pebble_templates/index.html:225:92
 msgid "<kbd>+</kbd>/<kbd>-</kbd> or <kbd>Q</kbd>/<kbd>E</kbd> to zoom"
-msgstr ""
+msgstr "<kbd>+</kbd>/<kbd>-</kbd> ou <kbd>Q</kbd>/<kbd>E</kbd> pour zoomer"
 
 #: resources/public/pebble_templates/index.html:226:42
 msgid "lookups"
-msgstr ""
+msgstr "inspection"
 
 #: resources/public/pebble_templates/index.html:226:85
 msgid "<kbd>Shift</kbd> + Click/Hold touch to lookup pixel"
-msgstr ""
+msgstr "<kbd>Shift</kbd> + Click/Garder appuyé pour inspecter un pixel"
 
 #: resources/public/pebble_templates/index.html:227:42
 #: resources/public/pebble_templates/index.html:489:44
@@ -173,47 +173,47 @@ msgstr ""
 
 #: resources/public/pebble_templates/index.html:227:139
 msgid "<kbd>G</kbd> to toggle grid"
-msgstr ""
+msgstr "<kbd>G</kbd> pour activer/désactiver la grille"
 
 #: resources/public/pebble_templates/index.html:228:42
 msgid "close;information shown;information hidden;info shown;info hidden;hide information;show information"
-msgstr ""
+msgstr "fermer;information;information cachée;info;info cachée;ouvrir l'information;cacher l'information"
 
 #: resources/public/pebble_templates/index.html:228:177
 msgid "<kbd>I</kbd> to open info"
-msgstr ""
+msgstr "<kbd>I</kbd> pour ouvrir l'info"
 
 #: resources/public/pebble_templates/index.html:229:42
 msgid "close;settings hidden;settings shown;hide settings;show settings"
-msgstr ""
+msgstr "fermer;paramètres cachés;cacher les paramètres;ouvrir les paramètres"
 
 #: resources/public/pebble_templates/index.html:229:142
 msgid "<kbd>T</kbd> to open settings"
-msgstr ""
+msgstr "<kbd>T</kbd> pour ouvrir les paramètres"
 
 #: resources/public/pebble_templates/index.html:230:42
 msgid "close;chat hidden;chat shown;hide chat;show chat"
-msgstr ""
+msgstr "fermer;chat caché;chat ouvert;cacher le chat;ouvrir le chat"
 
 #: resources/public/pebble_templates/index.html:230:126
 msgid "<kbd>B</kbd> to open chat"
-msgstr ""
+msgstr "<kbd>B</kbd> pour ouvrir le chat"
 
 #: resources/public/pebble_templates/index.html:231:42
 msgid "canvas locked;move;moving;zoom;zooming"
-msgstr ""
+msgstr "canvas verrouillé;bouger;zoom"
 
 #: resources/public/pebble_templates/index.html:231:116
 msgid "<kbd>L</kbd> to toggle locking panning of the canvas"
-msgstr ""
+msgstr "<kbd>L</kbd> pour verrouiller/déverrouiller le déplacement sur le canvas"
 
 #: resources/public/pebble_templates/index.html:232:42
 msgid "take screenshot;image;download;picture;canvas"
-msgstr ""
+msgstr "capture d'écran;image;télécharger;canvas"
 
 #: resources/public/pebble_templates/index.html:232:123
 msgid "<kbd>P</kbd> to take a snapshot"
-msgstr ""
+msgstr "<kbd>P</kbd> pour télécharger une image du canvas"
 
 #: resources/public/pebble_templates/index.html:233:42
 #: resources/public/pebble_templates/index.html:443:44
@@ -838,7 +838,7 @@ msgstr ""
 
 #: resources/public/pebble_templates/index.html:630:57
 msgid "Enable pixel available notification"
-msgstr "Activer les notification quand un pixel et prêt a être placé"
+msgstr "Activer les notifications quand un pixel est prêt à être placé"
 
 #: resources/public/pebble_templates/index.html:634:44
 msgid "notification;pixel ready;alert"
@@ -870,7 +870,7 @@ msgstr ""
 
 #: resources/public/pebble_templates/index.html:649:57
 msgid "Volume:"
-msgstr "Volume"
+msgstr "Volume :"
 
 #: resources/public/pebble_templates/index.html:654:44
 msgid "alert forewarning;alert delay; notification delay; notification forewarning"
@@ -878,7 +878,7 @@ msgstr ""
 
 #: resources/public/pebble_templates/index.html:656:57
 msgid "Delay (seconds):"
-msgstr "Délai (secondes):"
+msgstr "Délai (secondes) :"
 
 #: resources/public/pebble_templates/index.html:661:44
 msgid "chat mentions;chat pings;chat sound"
@@ -898,15 +898,15 @@ msgstr ""
 
 #: resources/public/pebble_templates/index.html:671:57
 msgid "Play sound on ping:"
-msgstr ""
+msgstr "Émettre un son quand on est mentionné :"
 
 #: resources/public/pebble_templates/index.html:673:56
 msgid "Off"
-msgstr ""
+msgstr "Jamais"
 
 #: resources/public/pebble_templates/index.html:674:61
 msgid "Only when necessary"
-msgstr ""
+msgstr "Seulement quand nécessaire"
 
 #: resources/public/pebble_templates/index.html:675:59
 msgid "Always"
@@ -955,7 +955,7 @@ msgstr "FAQ"
 
 #: resources/public/pebble_templates/faq.html:7:20
 msgid "Why is the cooldown as long as it is?"
-msgstr "Pourquoi est-ce que le temps à attendre entre chaque pixel est aussi long?"
+msgstr "Pourquoi est-ce que le temps à attendre entre chaque pixel est aussi long ?"
 
 #: resources/public/pebble_templates/faq.html:8:20
 msgid "The time it takes to get a pixel is dynamic, and changes based on how many people are online. The cooldown time is longer when more users are online."
@@ -967,7 +967,7 @@ msgstr "Pourquoi est-ce que ça dit que j'ai 0/6 pixels?"
 
 #: resources/public/pebble_templates/faq.html:10:20
 msgid "This means that you are waiting for your next pixel. When you place a pixel, there is a cooldown for when you can place the next one. Over time, you can gain up to 6 \"stacked\" pixels to place at once."
-msgstr "Ça veut dire que tu est en train d'attendre que ton prochain pixel soit prêt. Quand tu place un pixel, il y a un certain temps avant que tu puisse en placer un autre. Après un certain temps, tu peux obtenir jusqu'à 6 pixels \"stackés\""
+msgstr "Ça veut dire que tu es en train d'attendre que ton prochain pixel soit prêt. Quand tu places un pixel, il y a un certain temps avant que tu puisse en placer un autre. Après un certain temps, tu peux obtenir jusqu'à 6 pixels \"stackés\""
 
 #: resources/public/pebble_templates/faq.html:11:20
 msgid "Why does it take so long to \"stack\" pixels?"
