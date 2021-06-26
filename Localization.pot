@@ -1003,67 +1003,67 @@ msgstr "Maintiens <kbd>CTRL</kbd> (ou <kbd>OPTION</kbd> sur macOS) et déplace l
 
 #: resources/public/pebble_templates/faq.html:19:20
 msgid "Does the canvas reset? When?"
-msgstr ""
+msgstr "Est-ce que le canvas se réinitialise? Quand?"
 
 #: resources/public/pebble_templates/faq.html:20:20
 msgid "Yes. The canvas resets when it is completely full. A reset date is not usually decided until the canvas is full, but the average canvas life-span is around 1 month. Updates are posted in our <a href=\"https://pxls.space/discord\" target=\"_blank\">Discord server</a> when a reset date is set."
-msgstr ""
+msgstr "Oui. Le canvas se réinitialise quand il est complètement remplis. Une date exactle est choisie seulement quand le canvas est plein, mais la durée de vie moyenne est de 1 mois. Les annonces sont publiées dans notre <a href=\"https://pxls.space/discord\" target=\"_blank\">serveur Discord</a> lorsqu'une date est choisie."
 
 #: resources/public/pebble_templates/faq.html:21:20
 msgid "Where can I see the past canvases?"
-msgstr ""
+msgstr "Où puis-je voir les anciens canvas?"
 
 #: resources/public/pebble_templates/faq.html:22:20
 msgid "The past canvases are featured on our <a href=\"https://pxls.space/discord\" target=\"_blank\">Discord server</a>, or the 3rd party website <a href=\"https://pxlsfiddle.com\" target=\"_blank\">PxlsFiddle</a>, which records timelapses and a lot of useful information on each canvas."
-msgstr ""
+msgstr "Les anciens canvas sont situés dans notre <a href=\"https://pxls.space/discord\" target=\"_blank\">serveur Discord</a>, ou sur le site web third-party <a href=\"https://pxlsfiddle.com\" target=\"_blank\">PxlsFiddle</a>, qui enregistre des timelapses et plein d'autre information utile pour chaque canvas."
 
 #: resources/public/pebble_templates/faq.html:23:20
 msgid "How do I see who placed a pixel?"
-msgstr ""
+msgstr "Comment puis-je voir qui a placé un pixel?"
 
 #: resources/public/pebble_templates/faq.html:24:20
 msgid "By shift-clicking (or tap and hold on mobile) a pixel, you can see who placed a pixel, how many pixels they have placed, and when they placed it."
-msgstr ""
+msgstr "En shift-cliquant (ou en maintenant son doigt sur mobile) sur un pixel, vous pouvez voir qui l'a placé, le nombre de pixels que l'individu a placé, et le moment ou ce pixel a été placé."
 
 #: resources/public/pebble_templates/faq.html:25:20
 msgid "How do I report someone?"
-msgstr ""
+msgstr "Comment est-ce que je signale quelqu'un?"
 
 #: resources/public/pebble_templates/faq.html:26:20
 msgid "Shift-click (or tap and hold on mobile) on a pixel, and click the Report button."
-msgstr ""
+msgstr "Shift-click (ou en maintenant son doigt sur mobile) sur un pixel, et appuyez sur le bouton Signaler."
 
 #: resources/public/pebble_templates/faq.html:27:20
 msgid "How do I change the color of my name in the chat?"
-msgstr ""
+msgstr "Comment est-ce que je change la couleur de mon nom dans le chat?"
 
 #: resources/public/pebble_templates/faq.html:28:20
 msgid "There is a \"Username Color\" option near the bottom of the settings panel."
-msgstr ""
+msgstr "Il y a un option \"Couleur du nom d'utilisateur\" près du bas des options."
 
 #: resources/public/pebble_templates/faq.html:29:20
 msgid "What is a \"virginmap\"?"
-msgstr ""
+msgstr "Qu'est-ce que la \"virginmap\"?"
 
 #: resources/public/pebble_templates/faq.html:30:20
 msgid "The virginmap shows which pixels have not yet been placed on (or “virgin” pixels)."
-msgstr ""
+msgstr "La virginmap montre quels pixels n'ont pas encore été touchés (les pixels "vierges")."
 
 #: resources/public/pebble_templates/faq.html:31:20
 msgid "How do I report bugs?"
-msgstr ""
+msgstr "Comment puis-je signaler un bug?"
 
 #: resources/public/pebble_templates/faq.html:32:20
 msgid "Submit bugs to the #dev-and-bugs channel in the <a href=\"https://pxls.space/discord\" target=\"_blank\">Discord server</a>. If you have found an exploit, please message one of the staff members privately (through DMs)."
-msgstr ""
+msgstr "Publiez votre problème dans le salon #devs-and-bugs dans notre <a href=\"https://pxls.space/discord\" target=\"_blank\">serveur Discord</a>. Si vous avez trouvé une méthode pour exploiter le site, veuillez contacter un membre du staff (en message privé)."
 
 #: resources/public/pebble_templates/faq.html:33:20
 msgid "How do I get more info or contact staff?"
-msgstr ""
+msgstr "Comment puis-je avoir plus d'informations ou contacter le staff?"
 
 #: resources/public/pebble_templates/faq.html:34:20
 msgid "Check the info panel (the icon on the top left) for more details and links, or join our <a href=\"https://pxls.space/discord\" target=\"_blank\">Discord server</a>, where a staff member will gladly respond."
-msgstr ""
+msgstr "Regarde l'onglet d'information (l'icone dans le coin en haut à gauche) pour plus de détails et des liens, ou rejoignez notre <a href=\"https://pxls.space/discord\" target=\"_blank\">Discord server</a>, où un membre du staff vous répondra avec plaisir."
 
 #: resources/public/pebble_templates/info.html:3:10
 msgid "Welcome!"
