@@ -1322,7 +1322,7 @@ msgstr "Signalements du canvas ({0}/{1} ouvert(s))"
 #: resources/public/pebble_templates/profile.html:142:56
 #: resources/public/pebble_templates/profile.html:177:56
 msgid "Report on {0} (closed)"
-msgstr ""
+msgstr "Signalements ouverts {0} (fermés)"
 
 #. eg "Report on Bob (open)
 #: resources/public/pebble_templates/profile.html:145:56
