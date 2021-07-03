@@ -160,7 +160,7 @@ msgstr "<kbd>+</kbd>/<kbd>-</kbd> ou <kbd>Q</kbd>/<kbd>E</kbd> pour zoomer"
 
 #: resources/public/pebble_templates/index.html:226:42
 msgid "lookups"
-msgstr "inspection"
+msgstr "inspections"
 
 #: resources/public/pebble_templates/index.html:226:85
 msgid "<kbd>Shift</kbd> + Click/Hold touch to lookup pixel"
@@ -353,7 +353,7 @@ msgstr "Afficher le curseur"
 
 #: resources/public/pebble_templates/index.html:282:44
 msgid "darkness filter"
-msgstr "filtre"
+msgstr "filtre de luminosité"
 
 #: resources/public/pebble_templates/index.html:285:57
 msgid "Enable color brightness"
@@ -553,11 +553,11 @@ msgstr "Ignorés"
 
 #: resources/public/pebble_templates/index.html:424:44
 msgid "unignore;unblock"
-msgstr "désignorer"
+msgstr "ne plus ignorer"
 
 #: resources/public/pebble_templates/index.html:429:85
 msgid "Unignore"
-msgstr "Dés-ignorer"
+msgstr "ne plus ignorer"
 
 #: resources/public/pebble_templates/index.html:436:36
 msgid "overlays;virginmap;heatmap;grid"
