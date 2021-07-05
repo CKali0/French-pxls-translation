@@ -76,7 +76,7 @@ msgstr "Choisis ton pseudo"
 
 #: resources/public/pebble_templates/index.html:136:43
 msgid "Username:"
-msgstr "Pseudo"
+msgstr "Pseudo :"
 
 #: resources/public/pebble_templates/index.html:154:65
 #: resources/public/pebble_templates/profile.html:56:96
@@ -160,7 +160,7 @@ msgstr "<kbd>+</kbd>/<kbd>-</kbd> ou <kbd>Q</kbd>/<kbd>E</kbd> pour zoomer"
 
 #: resources/public/pebble_templates/index.html:226:42
 msgid "lookups"
-msgstr "inspection"
+msgstr "inspections"
 
 #: resources/public/pebble_templates/index.html:226:85
 msgid "<kbd>Shift</kbd> + Click/Hold touch to lookup pixel"
@@ -381,7 +381,7 @@ msgstr "molette de souris;roulette de souris;scroller dans la palette"
 
 #: resources/public/pebble_templates/index.html:304:57
 msgid "Enable scrolling on the palette to switch colors"
-msgstr "Changer de couleurs en scrollant dans la palette"
+msgstr "Changer de couleur en scrollant dans la palette"
 
 #: resources/public/pebble_templates/index.html:306:68
 msgid "reverse scrolling;mousewheel;palette scrolling;enable scrolling on the palette to switch colors"
@@ -421,7 +421,7 @@ msgstr "monospace;mono espace"
 
 #: resources/public/pebble_templates/index.html:334:57
 msgid "Toggle monospace font for lookups"
-msgstr "Activer/désactiver la police d'écriture monospace pour les inspections"
+msgstr "Activer/désactiver la police d'écriture monoespace pour les inspections"
 
 #: resources/public/pebble_templates/index.html:337:44
 msgid "floating bubble location"
@@ -553,11 +553,11 @@ msgstr "Ignorés"
 
 #: resources/public/pebble_templates/index.html:424:44
 msgid "unignore;unblock"
-msgstr "désignorer"
+msgstr "désignorer;ne plus ignorer"
 
 #: resources/public/pebble_templates/index.html:429:85
 msgid "Unignore"
-msgstr "Dés-ignorer"
+msgstr "Ne plus ignorer"
 
 #: resources/public/pebble_templates/index.html:436:36
 msgid "overlays;virginmap;heatmap;grid"
@@ -681,7 +681,7 @@ msgstr "sensibilité du zoom;zoom;molette de souris;roulette de souris"
 
 #: resources/public/pebble_templates/index.html:508:57
 msgid "Zoom sensitivity:"
-msgstr "Sensibilité du zoom:"
+msgstr "Sensibilité du zoom :"
 
 #: resources/public/pebble_templates/index.html:512:44
 msgid "zooming limit;scrolling limit;mousewheel;zooming maximum"
@@ -789,11 +789,11 @@ msgstr "position du modèle;coordonnées du modèle;ox=;oy="
 
 #: resources/public/pebble_templates/index.html:589:57
 msgid "Horizontal position:"
-msgstr "Position horizontale:"
+msgstr "Position horizontale :"
 
 #: resources/public/pebble_templates/index.html:593:57
 msgid "Vertical position:"
-msgstr "Position verticale:"
+msgstr "Position verticale :"
 
 #: resources/public/pebble_templates/index.html:597:44
 msgid "template transparency;template opacity;oo="
@@ -838,7 +838,7 @@ msgstr "notifications;notifs;notification de pixel"
 
 #: resources/public/pebble_templates/index.html:630:57
 msgid "Enable pixel available notification"
-msgstr "Activer les notifications quand un pixel est prêt à être placé"
+msgstr "Activer la notification quand un pixel est prêt à être placé"
 
 #: resources/public/pebble_templates/index.html:634:44
 msgid "notification;pixel ready;alert"
@@ -930,7 +930,7 @@ msgstr "Paramètres du Compte"
 
 #: resources/public/pebble_templates/index.html:697:57
 msgid "Public Discord name:"
-msgstr "Nom Public Discord"
+msgstr "Nom Public Discord :"
 
 #: resources/public/pebble_templates/index.html:701:83
 msgid "Set"
@@ -983,7 +983,7 @@ msgstr "Comment puis-je faire appel à un bannissement ?"
 
 #: resources/public/pebble_templates/faq.html:14:20
 msgid "Contact us on <a href=\"https://pxls.space/discord\" target=\"_blank\">Discord</a> or send an appeal to our <a href=\"https://pxls.space/appeal\" target=\"_blank\">Google form</a> after reading the rules in the site's info panel."
-msgstr "Contactes-nous à <a href=\"https://pxls.space/discord\" target=\"_blank\">Discord</a> ou envoie un appel à notre <a href=\"https://pxls.space/appeal\" target=\"_blank\">Google form</a> après avoir lu les règles dans le panel des infos du site."
+msgstr "Contacte-nous à <a href=\"https://pxls.space/discord\" target=\"_blank\">Discord</a> ou envoie un appel à notre <a href=\"https://pxls.space/appeal\" target=\"_blank\">Google form</a> après avoir lu les règles dans le panel des infos du site."
 
 #: resources/public/pebble_templates/faq.html:15:20
 msgid "How do I make a template?"
@@ -1055,7 +1055,7 @@ msgstr "Comment puis-je signaler un bug ?"
 
 #: resources/public/pebble_templates/faq.html:32:20
 msgid "Submit bugs to the #dev-and-bugs channel in the <a href=\"https://pxls.space/discord\" target=\"_blank\">Discord server</a>. If you have found an exploit, please message one of the staff members privately (through DMs)."
-msgstr "Publiez votre problème dans le salon #devs-and-bugs dans notre <a href=\"https://pxls.space/discord\" target=\"_blank\">serveur Discord</a>. Si vous avez trouvé une méthode pour exploiter le site, veuillez contacter un membre du staff (en message privé)."
+msgstr "Publie ton problème dans le salon #devs-and-bugs dans notre <a href=\"https://pxls.space/discord\" target=\"_blank\">serveur Discord</a>. Si tu as trouvé une méthode pour exploiter le site, merci de contacter un membre du staff (en message privé)."
 
 #: resources/public/pebble_templates/faq.html:33:20
 msgid "How do I get more info or contact staff?"
@@ -1063,7 +1063,7 @@ msgstr "Comment puis-je avoir plus d'informations ou contacter le staff ?"
 
 #: resources/public/pebble_templates/faq.html:34:20
 msgid "Check the info panel (the icon on the top left) for more details and links, or join our <a href=\"https://pxls.space/discord\" target=\"_blank\">Discord server</a>, where a staff member will gladly respond."
-msgstr "Regarde l'onglet d'information (l'icône dans le coin en haut à gauche) pour plus de détails et des liens, ou rejoignez notre <a href=\"https://pxls.space/discord\" target=\"_blank\">Discord server</a>, où un membre du staff vous répondra avec plaisir."
+msgstr "Regarde l'onglet d'information (l'icône dans le coin en haut à gauche) pour plus de détails et des liens, ou rejoignez notre <a href=\"https://pxls.space/discord\" target=\"_blank\">Discord server</a>, où un membre du staff te répondra avec plaisir."
 
 #: resources/public/pebble_templates/info.html:3:10
 msgid "Welcome!"
@@ -1087,7 +1087,7 @@ msgstr "Règles du canvas"
 
 #: resources/public/pebble_templates/info.html:16:9
 msgid "We pride ourselves on trying to keep an open canvas for all free from outside interference on our end, and especially censorship. However, for the good of the community and on accounts of our own beliefs, please acknowledge and obey the following guidelines:"
-msgstr "Nous mettons un point d'honneur à garder un canvas ouvert à tous sans interférences de notre part, et surtout sans censure. Toutefois, pour le bien de la communauté, et du fait de nos opinions, nous te remercions de lire et obéir les quelques consignes suivantes :"
+msgstr "Nous mettons un point d'honneur à garder un canvas ouvert à tous sans interférences de notre part, et surtout sans censure. Toutefois, pour le bien de la communauté, nous te remercions de lire et obéir les quelques consignes suivantes :"
 
 #: resources/public/pebble_templates/info.html:18:11
 msgid "No hateful imagery or derogatory speech. This includes but is not limited to words such as <i>faggot</i>, <i>nigger</i>, etc; as well as the Swastika, Hammer and Sickle, and any symbols of terrorism."
@@ -1334,7 +1334,7 @@ msgstr "Signalement sur {0} (ouvert)"
 #: resources/public/pebble_templates/profile.html:152:60
 #: resources/public/pebble_templates/profile.html:185:60
 msgid "Reported {0} on {1}"
-msgstr "Signalé {0} pour {1}"
+msgstr "Signalé {0} à la date du {1}"
 
 #: resources/public/pebble_templates/profile.html:158:47
 msgid "There are no canvas reports to show."
@@ -1350,19 +1350,19 @@ msgstr "Il n'y a aucun signalement du chat à montrer."
 
 #: resources/public/pebble_templates/profile.html:200:68
 msgid "You must be logged in to manage your factions."
-msgstr "Vous devez êtres connecté pour modifier vos factions."
+msgstr "Tu dois être connecté pour modifier tes factions."
 
 #: resources/public/pebble_templates/profile.html:205:36
 msgid "You are faction restricted and cannot create new factions. If you believe this is an error, please contact a moderator."
-msgstr "Vous êtes banni de la création des factions et ne pouvez pas en créer des nouvelles. Si vous croyez que ceci est une erreur, veuillez contacter un modérateur."
+msgstr "Tu es banni de la création des factions et ne peux pas en créer des nouvelles. Si tu penses que ceci est une erreur, merci de contacter un modérateur."
 
 #: resources/public/pebble_templates/profile.html:207:36
 msgid "You are canvas banned and cannot create new factions. If you believe this is an error, please contact a moderator."
-msgstr "Vous êtes banni du canvas et ne pouvez pas créer de nouvelles factions. Si vous croyez que ceci est une erreur, veuillez contacter un modérateur."
+msgstr "Tu es banni du canvas et ne peux pas créer de nouvelles factions. Si tu penses que ceci est une erreur, merci de contacter un modérateur."
 
 #: resources/public/pebble_templates/profile.html:212:76
 msgid "You must have at least {0} all-time pixels to create a faction."
-msgstr "Vous devez avoir au moins {0} pixels totaux pour créer une faction."
+msgstr "Tu dois avoir au moins {0} pixels totaux pour créer une faction."
 
 #: resources/public/pebble_templates/profile.html:215:300
 msgid "Create"
@@ -1374,7 +1374,7 @@ msgstr "Rejoindre"
 
 #: resources/public/pebble_templates/profile.html:225:118
 msgid "This is your currently displayed faction."
-msgstr "Ceci est votre faction affichée actuelle."
+msgstr "Ceci est ta faction affichée actuelle."
 
 #. eg "Pixelers (members: 100, ID: 1)"
 #: resources/public/pebble_templates/profile.html:228:44
@@ -1393,7 +1393,7 @@ msgstr "Enlever la faction affichée"
 #. makes the faction the one displayed for the current user
 #: resources/public/pebble_templates/profile.html:239:172
 msgid "Set Displayed"
-msgstr "Choisir la faction affichée"
+msgstr "Choisir comme faction affichée"
 
 #: resources/public/pebble_templates/profile.html:242:235
 msgid "Members"
@@ -1413,7 +1413,7 @@ msgstr "Quitter"
 
 #: resources/public/pebble_templates/profile.html:253:68
 msgid "You are not in any factions yet!"
-msgstr "Vous n'êtes pas encore dans une faction!"
+msgstr "Tu n'es pas encore dans une faction !"
 
 #: resources/public/pebble_templates/profile.html:269:52
 msgid "Members of {0} ([{1}])"
@@ -1442,7 +1442,7 @@ msgstr "Exclure"
 #: resources/public/pebble_templates/profile.html:300:79
 #: resources/public/pebble_templates/profile.html:322:79
 msgid "Nothing to see here!"
-msgstr "Rien à voir ici!"
+msgstr "Rien à voir ici !"
 
 #: resources/public/pebble_templates/profile.html:308:60
 msgid "Faction Bans"
@@ -1450,7 +1450,7 @@ msgstr "Bannissements de la Faction"
 
 #: resources/public/pebble_templates/profile.html:318:125
 msgid "Unban"
-msgstr "Unban"
+msgstr "Révoquer le bannissement"
 
 #: resources/public/pebble_templates/profile.html:341:52
 msgid "Find A Faction"
@@ -1458,11 +1458,11 @@ msgstr "Trouver une Faction"
 
 #: resources/public/pebble_templates/profile.html:351:99
 msgid "Search:"
-msgstr "Rechercher"
+msgstr "Rechercher :"
 
 #: resources/public/pebble_templates/profile.html:361:66
 msgid "Enter a search term to get started."
-msgstr "Entrez un terme de recherche ici pour débuter."
+msgstr "Entre un terme de recherche ici pour débuter."
 
 #: resources/public/pebble_templates/profile.html:363:116
 msgid "Load More"
@@ -1475,14 +1475,14 @@ msgstr "Pas trouvé"
 
 #: resources/public/pebble_templates/40x.html:41:23
 msgid "The content you requested could not be found at this URL. If you believe this is an error, please contact a developer."
-msgstr "Le contenu que vous avez demandé n'a pas pu être trouvé sur ce lien. Si vous croyez que c'est un erreur, veuillez contacter un développeur."
+msgstr "Le contenu que tu as demandé n'a pas pu être trouvé sur ce lien. Si tu penses que c'est un erreur, merci de contacter un développeur."
 
 #. links to the homepage (the app itself)
 #: resources/public/pebble_templates/40x.html:44:99
 #: resources/public/pebble_templates/40x.html:53:99
 #: resources/public/pebble_templates/40x.html:61:99
 msgid "Back to Pxls"
-msgstr "Retourner à Pxls"
+msgstr "Retourner sur Pxls"
 
 #. HTTP status code name
 #: resources/public/pebble_templates/40x.html:49:24
@@ -1491,7 +1491,7 @@ msgstr "Non Authentifié"
 
 #: resources/public/pebble_templates/40x.html:51:23
 msgid "You must be logged in to access this data. Please go back to pxls and go through the authentication process."
-msgstr "Vous devez être connecté pour accéder cette information. Veuillez retourner sur Pxls et poursuivez le processus d'authentification. "
+msgstr "Tu dois être connecté pour accéder cette information. Merci de retourner sur Pxls et de poursuivre le processus d'authentification. "
 
 #. HTTP status code name
 #: resources/public/pebble_templates/40x.html:57:24
@@ -1500,4 +1500,4 @@ msgstr "Non Autorisé"
 
 #: resources/public/pebble_templates/40x.html:59:23
 msgid "The action you attempted to perform is not allowed or resulted in an error. Please ensure you have access to the endpoint and try again later."
-msgstr "L'action que vous essayez d'effectuer n'est pas permise ou une erreur est survenue. Veuillez vous assurer que vous avez l'accès et essayez plus tard."
+msgstr "L'action que tu essayes d'effectuer n'est pas permise ou une erreur est survenue. Merci de t'assurer que tu as l'accès nécessaire et de réessayer plus tard."
